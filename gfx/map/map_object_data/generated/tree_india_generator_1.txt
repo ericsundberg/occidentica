@@ -1,0 +1,58 @@
+﻿object={
+	name="tree_india_generator_1_0"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=yes
+	layer="tree_layer"
+	pdxmesh="tree_india_01_mesh"
+	count=4
+	transform="5947.598145 0.000000 2361.606689 0.000000 0.485464 0.000000 -0.874257 0.976796 0.976796 0.976796
+5929.760742 0.000000 2428.937256 0.000000 0.362298 0.000000 -0.932062 1.007171 1.007171 1.007171
+5923.558594 0.000000 2424.348145 0.000000 0.399128 0.000000 -0.916895 0.994072 0.994072 0.994072
+5930.764648 0.000000 2447.122070 0.000000 0.980123 0.000000 0.198389 0.707314 0.707314 0.707314
+"}
+object={
+	name="tree_india_generator_1_1"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=yes
+	layer="tree_layer"
+	pdxmesh="tree_india_02_mesh"
+	count=0
+}
+object={
+	name="tree_india_generator_1_2"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=yes
+	layer="tree_layer"
+	pdxmesh="tree_india_03_mesh"
+	count=0
+}
+object={
+	name="tree_india_generator_1_3"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=yes
+	layer="tree_layer"
+	pdxmesh="tree_india_04_mesh"
+	count=0
+}
+object={
+	name="tree_india_generator_1_4"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=yes
+	layer="tree_layer"
+	pdxmesh="tree_india_05_mesh"
+	count=0
+}
+object={
+	name="tree_india_generator_1_5"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=yes
+	layer="tree_layer"
+	pdxmesh="tree_palm_mesh"
+	count=0
+}
